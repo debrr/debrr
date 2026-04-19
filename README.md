@@ -1,6 +1,6 @@
-## Hi! I'm Débora 👋
+## Hi! I'm Débora
 
-**`Data Analysis`** **`Data Engineering`** **`Business Intelligence`**
+**`Data Analysis`** | **`Data Engineering`** | **`Business Intelligence`**
 <br/>
 
 I'm a Data Science student focused on data analysis, with a strong interest in turning data into insights that support real business decisions.
@@ -14,7 +14,7 @@ I have hands-on experience with:
 
 Currently, I'm focused on building my portfolio through practical projects, while deepening my knowledge in data engineering, Python, SQL, and Power BI.
 
-🚀 Here you will find projects focused on data analysis, visualization, and building data-driven solutions.
+Here you will find projects focused on data analysis, visualization, and building data-driven solutions.
 
 ---
 
