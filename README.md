@@ -38,16 +38,6 @@ Here you will find projects focused on data analysis, visualization, and buildin
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
-<img 
-    align="left" 
-    alt="Azure" 
-    title="Azure"
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="PostgreSQL" 
@@ -64,6 +54,25 @@ Here you will find projects focused on data analysis, visualization, and buildin
     width="30px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+  <img 
+    align="left" 
+    alt="Azure" 
+    title="Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Azure DevOps" 
+    title="Azure DevOps"
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
+/>
+          
 <br/>
 <br/>
 
