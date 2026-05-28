@@ -70,7 +70,6 @@ Here you will find projects focused on data analysis, visualization, and buildin
 ### Statistics
 
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=debrr&theme=synthwave" />
   <img 
     align="left" 
     alt="GitHub Stats" 
