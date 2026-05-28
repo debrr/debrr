@@ -64,21 +64,13 @@ Here you will find projects focused on data analysis, visualization, and buildin
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Azure DevOps" 
-    title="Azure DevOps"
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
-/>
-          
 <br/>
 <br/>
 
 ### Statistics
 
 <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=debrr&theme=synthwave" />
   <img 
     align="left" 
     alt="GitHub Stats" 
