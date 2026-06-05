@@ -4,8 +4,8 @@
 
 <div align="center">
 
-༺❈༻════════════════════════════༺❈༻ 
-Chapter I — The Chronicles
+༺❈༻════════════════════════════༺❈༻ <br>
+Chapter I — The Chronicles<br>
 ༺❈༻════════════════════════════༺❈༻
 
 </div>
@@ -21,21 +21,23 @@ Current Quest: Building data solutions and mastering Azure
 
 <div align="center">
 
-༺❈༻════════════════════════════༺❈༻  Chapter II — The Lore  ༺❈༻════════════════════════════༺❈༻
+༺❈༻════════════════════════════༺❈༻ <br> 
+Chapter II — The Lore<br>
+༺❈༻════════════════════════════༺❈༻
 
 </div>
 
-> Apprentice of the arts of Data and AI.
->
-> Currently studying Azure, Machine Learning and Data Architecture.
->
-> Seeking wisdom in the libraries of Rivendell and the depths of forgotten datasets.
-
-<br>
+```text
+Apprentice of the arts of Data and AI.
+Currently studying Azure, Machine Learning and Data Architecture.
+Seeking wisdom in the libraries of Rivendell and the depths of forgotten datasets.
+```
 
 <div align="center">
 
-༺❈༻═══════════════════════════༺❈༻  Chapter III — Artifacts & Tools ༺❈༻═══════════════════════════༺❈༻
+༺❈༻════════════════════════════༺❈༻
+<br>Chapter III — Artifacts & Tools<br>
+༺❈༻════════════════════════════༺❈༻
 
 </div>
 
@@ -53,10 +55,15 @@ Current Quest: Building data solutions and mastering Azure
 
 <div align="center">
 
-༺❈༻══════════════════════༺❈༻ Chapter IV — Under starlight and ancient trees  ༺❈༻═══════════════════════༺❈༻
+༺❈༻════════════════════════════༺❈༻<br>
+Chapter IV — Under starlight and ancient trees<br>
+༺❈༻════════════════════════════༺❈༻
 
 
 </div>
 
-📜 Messages may be sent to:
+```text
+📜 Messages may be sent to:<br>
 🌙 deborardrigues1@gmail.com
+```
+
