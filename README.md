@@ -1,7 +1,13 @@
 <p align="center">
   <img src="https://i.imgur.com/gGuyFiu.jpeg" width="100%"/>
 </p>
+<div align="center">
 
+# 𝐃𝐞𝐛𝐨𝐫𝐚 𝐑𝐨𝐝𝐫𝐢𝐠𝐮𝐞𝐬
+Data Analyst • Exploring Data Architecture & Engineering<br>
+𓍼 ⊹ ꕤ ⊹ 𓍼
+
+</div>
 
 <div align="center">
 ༺❈༻════════════════════════════༺❈༻ <br>
@@ -20,8 +26,12 @@
       <pre lang="yaml">
 Name: Debora
 Role: Data Analyst
-Path: Data Analysis & Engineering
-Current Quest: Building data solutions and mastering Azure<br>
+Focus: Analytics, BI and Data Solutions
+Currently exploring:
+◈ Data Architecture
+◈ Azure Data Services
+◈ ETL & Pipelines
+◈ Growing into Data Engineering<br>
       </pre>
     </td>
   </tr>
@@ -45,9 +55,10 @@ Current Quest: Building data solutions and mastering Azure<br>
     </td>
     <td width="70%" valign="top">
       <pre lang="text">
-Apprentice of the arts of Data and AI.<br>
-Currently studying Data Architecture and Engineering.<br>
-Seeking wisdom in the libraries of Rivendell and the depths of forgotten datasets.
+Apprentice of the arts of Data and AI,
+Seeking wisdom where old records lie.
+By day I wander through datasets untold,
+By night through tales and paintings of old.
       </pre>
     </td>
   </tr>
