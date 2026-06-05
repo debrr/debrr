@@ -2,12 +2,12 @@
   <img src="https://i.imgur.com/gGuyFiu.jpeg" width="100%"/>
 </p>
 
+
 <div align="center">
 ༺❈༻════════════════════════════༺❈༻ <br>
-Chapter I — The Chronicles<br>
+𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝐈 — 𝐓𝐡𝐞 𝐂𝐡𝐫𝐨𝐧𝐢𝐜𝐥𝐞𝐬<br>
 ༺❈༻════════════════════════════༺❈༻
 </div>
-
 <br>
 
 <table border="0" width="100%">
@@ -21,9 +21,7 @@ Chapter I — The Chronicles<br>
 Name: Debora
 Role: Data Analyst
 Path: Data Analysis & Engineering
-Current Quest: Building data solutions and mastering Azure
-
-(Always learning, always growing)
+Current Quest: Building data solutions and mastering Azure<br>
       </pre>
     </td>
   </tr>
@@ -33,7 +31,7 @@ Current Quest: Building data solutions and mastering Azure
 
 <div align="center">
 ༺❈༻════════════════════════════༺❈༻ <br>
-Chapter II — The Lore<br>
+𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝐈𝐈 — 𝐓𝐡𝐞 𝐋𝐨𝐫𝐞<br>
 ༺❈༻════════════════════════════༺❈༻
 </div>
 
@@ -47,11 +45,9 @@ Chapter II — The Lore<br>
     </td>
     <td width="70%" valign="top">
       <pre lang="text">
-Apprentice of the arts of Data and AI.
-Currently studying Azure, Machine Learning and Data Architecture.
+Apprentice of the arts of Data and AI.<br>
+Currently studying Data Architecture and Engineering.<br>
 Seeking wisdom in the libraries of Rivendell and the depths of forgotten datasets.
-
-"The road goes ever on and on..."
       </pre>
     </td>
   </tr>
@@ -61,7 +57,7 @@ Seeking wisdom in the libraries of Rivendell and the depths of forgotten dataset
 
 <div align="center">
 ༺❈༻════════════════════════════༺❈༻ <br>
-Chapter III — Artifacts & Tools<br>
+𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝐈𝐈𝐈 — 𝐀𝐫𝐭𝐢𝐟𝐚𝐜𝐭𝐬 & 𝐓𝐨𝐨𝐥𝐬<br>
 ༺❈༻════════════════════════════༺❈༻
 </div>
 
@@ -80,9 +76,6 @@ Chapter III — Artifacts & Tools<br>
 🔮 Power BI
 ✨ Azure
 🌿 Data Engineering
-📚 Machine Learning
-
-🛡️ Always sharpening my tools
       </pre>
     </td>
   </tr>
@@ -92,7 +85,7 @@ Chapter III — Artifacts & Tools<br>
 
 <div align="center">
 ༺❈༻════════════════════════════༺❈༻ <br>
-Chapter IV — Under starlight and ancient trees<br>
+𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝐈𝐕 — 𝐔𝐧𝐝𝐞𝐫 𝐬𝐭𝐚𝐫𝐥𝐢𝐠𝐡𝐭 𝐚𝐧𝐝 𝐚𝐧𝐜𝐢𝐞𝐧𝐭 𝐭𝐫𝐞𝐞𝐬<br>
 ༺❈༻════════════════════════════༺❈༻
 </div>
 
@@ -112,3 +105,12 @@ Chapter IV — Under starlight and ancient trees<br>
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+  <br>
+<div align="center">
+༺❈༻════════════════════════════༺❈༻ <br>
+“𝐓𝐡𝐞 𝐡𝐨𝐛𝐛𝐢𝐭𝐬 𝐟𝐞𝐥𝐥 𝐚𝐬𝐥𝐞𝐞𝐩 𝐭𝐨 𝐭𝐡𝐞 𝐬𝐨𝐮𝐧𝐝<br>𝐨𝐟 𝐭𝐡𝐞 𝐬𝐨𝐟𝐭 𝐬𝐢𝐧𝐠𝐢𝐧𝐠 𝐨𝐟 𝐁𝐫𝐞𝐠𝐚𝐥𝐚𝐝,<br>𝐭𝐡𝐚𝐭 𝐬𝐞𝐞𝐦𝐞𝐝 𝐭𝐨 𝐥𝐚𝐦𝐞𝐧𝐭 𝐢𝐧 𝐦𝐚𝐧𝐲 𝐭𝐨𝐧𝐠𝐮𝐞𝐬<br>𝐭𝐡𝐞 𝐟𝐚𝐥𝐥 𝐨𝐟 𝐭𝐫𝐞𝐞𝐬 𝐭𝐡𝐚𝐭 𝐡𝐞 𝐡𝐚𝐝 𝐥𝐨𝐯𝐞𝐝.” <br>༺❈༻════════════════════════════༺❈༻ 
+</div>
+<br>
