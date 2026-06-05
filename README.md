@@ -63,7 +63,7 @@ Chapter IV — Under starlight and ancient trees<br>
 </div>
 
 ```text
-📜 Messages may be sent to:<br>
+📜 Messages may be sent to:
 🌙 deborardrigues1@gmail.com
 ```
 
