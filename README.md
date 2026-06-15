@@ -19,7 +19,7 @@ Data Analyst • Exploring Data Architecture & Engineering<br>
 <table border="0" width="100%">
   <tr>
     <td align="center" width="30%" valign="middle">
-      <img src="https://i.imgur.com/6kaofjD.jpeg" width="100%">
+      <img src="https://i.imgur.com/jRrwfeM.jpeg" width="100%">
       <br><br><br><br>
     </td>
     <td width="70%" valign="top">
